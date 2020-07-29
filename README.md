@@ -1,7 +1,7 @@
 #  About :rocket:
 An Youtube clone app. User can search for videos and choose between results.
 
-#  Installation :octocat:
+#  Installation :computer:
 Make sure your have Node.js installed on your computer.
 
 Clone the repo:
