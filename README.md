@@ -1,5 +1,5 @@
 #  About :rocket:
-An Youtube clone app. User can search for videos and choose between results.
+An Youtube clone app. User can search for videos and choose between results. (Under Construction) :hammer:
 
 #  Installation :computer:
 Make sure your have Node.js installed on your computer.
